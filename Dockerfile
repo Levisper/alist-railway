@@ -1,4 +1,4 @@
-FROM xhofe/alist:v2.2.0
+FROM xhofe/alist:v2.3.2
 LABEL MAINTAINER="i@nn.ci"
 
 RUN chmod -R 777 /opt/alist/data
